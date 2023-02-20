@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://ruiqiizhou.github.io/nbdev_tutorial"
+  description: ""a repo""
+  repo-branch: main
+  repo-url: "https://github.com/ruiqiizhou/nbdev_tutorial"
